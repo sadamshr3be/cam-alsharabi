@@ -18,14 +18,7 @@ Hack Cameras
 
 * python3 cam-lasharabi.py
 
-# CAM-HACKERS
 
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto.png">
-
-# CAM-HACKERS
-
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
-
-<h3> termux : </h3>
+<h3> @termuxalsharabi : </h3>
 
 *https://t.me/termuxalsharabi
