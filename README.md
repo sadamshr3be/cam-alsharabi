@@ -14,7 +14,7 @@ Hack Cameras
 
 * pip3 install colorama
 
-* cd cam-lasharabi
+* cd cam-alsharabi
 
 * python3 cam-lasharabi.py
 
