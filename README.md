@@ -22,3 +22,6 @@ Hack Cameras
 <h3> @termuxalsharabi : </h3>
 
 *https://t.me/termuxalsharabi
+# المدونة
+
+https://termuxalsharabi.blogspot.com
